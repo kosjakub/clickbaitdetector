@@ -1,0 +1,7 @@
+include Feelings.txt
+include DPronouns.txt
+include IndPronouns.txt
+include KeyAdj.txt
+include KeyNouns.txt
+include KeySymbols.txt
+include KeyVerbs.txt
